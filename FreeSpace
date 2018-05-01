@@ -1,0 +1,5 @@
+--- 
+- 
+  command: "vmstat -s"
+  name: "check the physical memory"
+  register: phy_mem
